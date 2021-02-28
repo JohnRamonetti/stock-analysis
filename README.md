@@ -1,6 +1,6 @@
 # Analysis of Stock Performance 2017/2018
 
-## ** Overview of Project **
+## **Overview of Project**
 ### Purpose:  The purpose of this analysis was twofold.  Our primary objective was to analyze the performance of stocks based on their trading volume and annual returns for the years 2017 and 2018, and to readily ascertain what stocks performed well or poorly in those years.  The goal is ultimately to choose the most productive stocks for investment purposes.  Our secondary objective was then to increase the efficiency of the code (refactoring) so that the algorithms used herein will still be useful for much larger sets of stock data.  While the current analysis was performed on data for 12 stock tickers, the code was refactored to accomodate analysis of very large sets of ticker data.
 
 ## **Results**
