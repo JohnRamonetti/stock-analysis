@@ -19,3 +19,8 @@
 ### How do these pros and cons apply to refactoring the original VBA script?
 #### In the current instance, refactoring took a small amount of time to yield a dramatic improvement in the execution times of our analyses.  While this doesn't seem to be a big deal when we're talking about execution times under a second, it does mean that the algorithm we've used here can now be applied to very large, real-world size sets of stock data.  When applying this algorithm to a massive set of stock data, the execution time will be appreciated.  Because this set of code is small and because the refactoring coder is very familiar with the original code, there really is no threat of disrupting the original code, or disadvantage to refactoring in this case.
 
+
+________________________________
+#### Contact:
+
+#### E-mail: [john.ramonetti@gmail.com](mailto:john.ramonetti@gmail.com)
